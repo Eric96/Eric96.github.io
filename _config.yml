@@ -15,19 +15,6 @@ sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/post-bg-hacker.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
-# SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     ericyang-99
-github_username:    Eric96
-#facebook_username:  
-jianshu_username:   570619d9310f
-#twitter_username:   
-
-
-
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
